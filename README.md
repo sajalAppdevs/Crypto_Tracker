@@ -1,16 +1,10 @@
-# bitcoin_ticker
+# Crypto Tracker
 
-A new Flutter project.
+<li>CryptoBase - Flutter Cryptocurrency Price Tracker Complete App 
 
-## Getting Started
+<li>in this Application i have created a All Cryptocurrency Price Tracker live with simple UI design. 
 
-This project is a starting point for a Flutter application.
+#### || Flutter simple Code || http: Rest Api || Json || Flutter ListView || Flutter Custom Class ||
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Simple UI Design
+![Capture](https://user-images.githubusercontent.com/97346744/180629751-0dcfc148-3c0e-49c4-a674-e263c7a45604.PNG)
